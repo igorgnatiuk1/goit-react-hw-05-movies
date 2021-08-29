@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/MovieView/MovieView.module.css"],"names":[],"mappings":"AAAA,sBACI,WAAY,CACZ,YACJ,CAEA,uBACI,YACJ","file":"MovieView.db0d77fc.chunk.css","sourcesContent":[".img {\r\n    width: 300px;\r\n    padding: 20px;\r\n}\r\n\r\n.card {\r\n    display: flex;\r\n}"]}
