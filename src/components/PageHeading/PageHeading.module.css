@@ -1,0 +1,28 @@
+
+
+.input {
+    width: 600px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+::placeholder {
+    color: darkslategray;
+    font-size: x-large;
+    text-align: center;
+}
+.button{
+    font-size: xx-large;
+    background-color: #61dafb;
+    color: lavender;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    align-items: center;
+}

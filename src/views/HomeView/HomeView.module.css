@@ -1,0 +1,22 @@
+.item {
+    list-style: none;
+   margin: 10px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.image {
+    display: block;
+    width: 100px;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.name {
+    width: 200px;
+    margin: auto;
+}
